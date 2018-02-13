@@ -1,0 +1,37 @@
+body {
+  background-color: #262626;
+  color: #eaeaea;
+  font-family: "PT Sans", sans-serif;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: normal;
+}
+
+pre {
+  background-color: #505050;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+img {
+  max-width: 100%;
+}
+
+td, th {
+  background-color: #2f2f2f;
+  border: 1px solid #262626;
+  padding: 5px 10px;
+}
+
+div.content {
+  width: 60%;
+  margin: 0 auto;
+}
+
